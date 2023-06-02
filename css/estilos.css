@@ -19,8 +19,7 @@ body
 #container h1
 {
     font-size: 20px;
+    color: plum; 
 }
-#title
-{
-   color: plum; 
-}
+
+   
